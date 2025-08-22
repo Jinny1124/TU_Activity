@@ -1,2 +1,2 @@
 # TU_Activity
-For Waterfall model testing softeare process
+For Waterfall model testing software process
